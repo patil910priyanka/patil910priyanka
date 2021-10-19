@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @patil910priyanka
+- 👀 I’m interested in data analysis 
+- 🌱 I’m currently learning machine lerning and power bi
